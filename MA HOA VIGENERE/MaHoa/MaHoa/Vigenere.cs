@@ -18,7 +18,7 @@ namespace MaHoa
             key = s.ToUpper();
         }
 
-        string chuoi ="AÄÂBCDĐEÊGHIKLMNOÔOPQRSTUUVXY ?!ÁÀÅÚ";
+        string chuoi ="AÄÂBCDĐEÊGHIKLMNOÔPQRSTUƯVXY ?!ÀÁÃẢẦẤẪẨẰẮẴẲÈÉẼẺỀẾỄỂÌÍĨỈÒÓÕỎỒỐỖỔÙÚŨỦỪỨỮỬỲÝỸỶ";
 
         public int[] chuoi_mangchiso(string s)
         {
