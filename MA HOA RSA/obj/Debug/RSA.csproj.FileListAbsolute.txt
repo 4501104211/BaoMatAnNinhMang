@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\RSA\bin\Debug\RSA.exe.config
+C:\Users\HP\source\repos\RSA\bin\Debug\RSA.exe
+C:\Users\HP\source\repos\RSA\bin\Debug\RSA.pdb
+C:\Users\HP\source\repos\RSA\obj\Debug\RSA.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\RSA\obj\Debug\RSA.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\RSA\obj\Debug\RSA.Form1.resources
+C:\Users\HP\source\repos\RSA\obj\Debug\RSA.Properties.Resources.resources
+C:\Users\HP\source\repos\RSA\obj\Debug\RSA.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\RSA\obj\Debug\RSA.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\RSA\obj\Debug\RSA.exe
+C:\Users\HP\source\repos\RSA\obj\Debug\RSA.pdb
