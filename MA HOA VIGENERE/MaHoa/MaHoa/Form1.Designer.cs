@@ -39,6 +39,7 @@ namespace MaHoa
             this.txtbCipherText = new System.Windows.Forms.TextBox();
             this.btDecrypt = new System.Windows.Forms.Button();
             this.txtbResult = new System.Windows.Forms.TextBox();
+            this.About = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -135,11 +136,23 @@ namespace MaHoa
             this.txtbResult.Size = new System.Drawing.Size(786, 165);
             this.txtbResult.TabIndex = 13;
             // 
+            // About
+            // 
+            this.About.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.About.Location = new System.Drawing.Point(588, 25);
+            this.About.Name = "About";
+            this.About.Size = new System.Drawing.Size(115, 23);
+            this.About.TabIndex = 14;
+            this.About.Text = "About";
+            this.About.UseVisualStyleBackColor = true;
+            this.About.Click += new System.EventHandler(this.About_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.About);
             this.Controls.Add(this.txtbResult);
             this.Controls.Add(this.btDecrypt);
             this.Controls.Add(this.txtbCipherText);
@@ -169,6 +182,7 @@ namespace MaHoa
         private System.Windows.Forms.TextBox txtbCipherText;
         private System.Windows.Forms.Button btDecrypt;
         private System.Windows.Forms.TextBox txtbResult;
+        private System.Windows.Forms.Button About;
     }
 }
 

@@ -28,3 +28,14 @@ F:\MA HOA VIGENERE\MaHoa\MaHoa\obj\Debug\MaHoa.csproj.GenerateResource.cache
 F:\MA HOA VIGENERE\MaHoa\MaHoa\obj\Debug\MaHoa.csproj.CoreCompileInputs.cache
 F:\MA HOA VIGENERE\MaHoa\MaHoa\obj\Debug\MaHoa.exe
 F:\MA HOA VIGENERE\MaHoa\MaHoa\obj\Debug\MaHoa.pdb
+C:\Users\ASUS\BaoMatAnNinhMang\MA HOA VIGENERE\MaHoa\MaHoa\bin\Debug\MaHoa.exe.config
+C:\Users\ASUS\BaoMatAnNinhMang\MA HOA VIGENERE\MaHoa\MaHoa\bin\Debug\MaHoa.exe
+C:\Users\ASUS\BaoMatAnNinhMang\MA HOA VIGENERE\MaHoa\MaHoa\bin\Debug\MaHoa.pdb
+C:\Users\ASUS\BaoMatAnNinhMang\MA HOA VIGENERE\MaHoa\MaHoa\obj\Debug\MaHoa.csproj.AssemblyReference.cache
+C:\Users\ASUS\BaoMatAnNinhMang\MA HOA VIGENERE\MaHoa\MaHoa\obj\Debug\MaHoa.Form1.resources
+C:\Users\ASUS\BaoMatAnNinhMang\MA HOA VIGENERE\MaHoa\MaHoa\obj\Debug\MaHoa.Properties.Resources.resources
+C:\Users\ASUS\BaoMatAnNinhMang\MA HOA VIGENERE\MaHoa\MaHoa\obj\Debug\MaHoa.csproj.GenerateResource.cache
+C:\Users\ASUS\BaoMatAnNinhMang\MA HOA VIGENERE\MaHoa\MaHoa\obj\Debug\MaHoa.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\BaoMatAnNinhMang\MA HOA VIGENERE\MaHoa\MaHoa\obj\Debug\MaHoa.exe
+C:\Users\ASUS\BaoMatAnNinhMang\MA HOA VIGENERE\MaHoa\MaHoa\obj\Debug\MaHoa.pdb
+C:\Users\ASUS\BaoMatAnNinhMang\MA HOA VIGENERE\MaHoa\MaHoa\obj\Debug\MaHoa.Form2.resources

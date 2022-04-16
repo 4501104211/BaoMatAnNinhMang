@@ -51,5 +51,13 @@ namespace MaHoa
         {
             
         }
+
+        private void About_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form2 form2 = new Form2();
+            form2.ShowDialog();
+            this.Close();
+        }
     }
 }

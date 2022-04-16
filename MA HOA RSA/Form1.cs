@@ -73,5 +73,13 @@ namespace RSA
             byte[] decryptText = RSAEncryption.GiaiMa(cipherText, rsa.ExportParameters(true), false);
             txtDecryptText.Text = Encoding.UTF8.GetString(decryptText);
         }
+
+        private void About_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form2 form2 = new Form2();
+            form2.ShowDialog();
+            this.Close();
+        }
     }
 }
